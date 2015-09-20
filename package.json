@@ -1,0 +1,28 @@
+{
+  "name": "documenter",
+  "version": "0.0.1",
+  "description": "documenter - Framework documentation RDF vocab and display tools",
+  "keywords": [
+    "viewer",
+    "vocab",
+    "documentation"
+  ],
+  "license": "MIT",
+  "author": "László Lajos Jánszky",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inf3rno/documenter"
+  },
+  "bugs": {
+    "url": "https://github.com/inf3rno/documenter/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js --require features features/"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "cucumber": "latest"
+  }
+}
